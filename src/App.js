@@ -13,7 +13,7 @@ function App() {
           </Navbar.Brand>
           <Nav className="mx-auto">
             <Nav.Link>
-              <Link className="text-decoration-none text-white" to="/home">
+              <Link className="text-decoration-none text-white" to="/">
                 Home
               </Link>
             </Nav.Link>
